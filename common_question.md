@@ -21,6 +21,6 @@ Ans.
   ex. gnome-terminal -e 'ryu-manager'
 
 ### Q4. install google calendar
-  sudo add-apt-repository ppa:atareao/atareao
-  sudo apt update
-  sudo apt-get install calendar-indicator
+  sudo add-apt-repository ppa:atareao/atareao  
+  sudo apt update  
+  sudo apt-get install calendar-indicator  
