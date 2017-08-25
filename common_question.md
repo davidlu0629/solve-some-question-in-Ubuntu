@@ -19,3 +19,8 @@ Ans.
   搜尋startup applications
   新增指令(terminal 指令)
   ex. gnome-terminal -e 'ryu-manager'
+
+### Q4. install google calendar
+  sudo add-apt-repository ppa:atareao/atareao
+  sudo apt update
+  sudo apt-get install calendar-indicator
