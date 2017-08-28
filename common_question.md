@@ -2,9 +2,9 @@
     Ans.  
       input: 
       
-        sudo rm /var/cache/apt/archives/lock 
+         sudo rm /var/cache/apt/archives/lock 
         
-        sudo rm /var/lib/dpkg/lock 
+          sudo rm /var/lib/dpkg/lock 
 
 Q2. boot and auto start some app before login
 Ans.
