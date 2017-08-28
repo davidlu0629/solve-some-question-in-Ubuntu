@@ -1,8 +1,10 @@
-Q1. could not get lock /var/lib/dpkg/lock
-Ans. 
-  input:
-    sudo rm /var/cache/apt/archives/lock
-    sudo rm /var/lib/dpkg/lock
+### Q1. could not get lock /var/lib/dpkg/lock
+    Ans.  
+      input: 
+        
+        sudo rm /var/cache/apt/archives/lock 
+        
+        sudo rm /var/lib/dpkg/lock 
 
 Q2. boot and auto start some app before login
 Ans.
